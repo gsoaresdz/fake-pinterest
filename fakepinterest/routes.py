@@ -20,7 +20,7 @@ def homepage():
   return render_template("homepage.html", form=form_login)
 
 @app.route("/criarconta", methods=["GET", "POST"])
-def criarconta():
+def criar_conta():
   form_criarconta = FormCriarConta()
   if form_criarconta.validate_on_submit():
     senha = bcrypt.generate_password_hash(form_criarconta.senha.data)
