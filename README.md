@@ -3,7 +3,6 @@
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/fake-pinterest?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/fake-pinterest?color=56BEB8">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/fake-pinterest?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/gsoaresdz/fake-pinterest?color=56BEB8">
 </p>
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
@@ -11,7 +10,6 @@
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/gsoaresdz" target="_blank">Autor</a>
 </p>
 <br>
