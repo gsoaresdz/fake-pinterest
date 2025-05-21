@@ -35,8 +35,8 @@ This project is a simplified web application inspired by Pinterest. It allows us
 The following tools were used in this project:
 
 - [Python](https://www.python.org/)
-- Flask
-- SQLite
+- [Flask](https://flask.palletsprojects.com/en/stable/)
+- [SQLite](https://www.sqlite.org/)
 
 ## **:white_check_mark: Requirements**
 
@@ -63,8 +63,9 @@ $ python main.py
 
 ## :memo: License
 
-This project is licensed under the MIT License. For more details, check the [LICENSE](LICENSE file.
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
 <a href="#top">Back to top</a>
+
