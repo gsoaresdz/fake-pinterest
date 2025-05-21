@@ -5,68 +5,66 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/fake-pinterest?color=56BEB8">
 </p>
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/gsoaresdz" target="_blank">Autor</a>
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-execution">Execution</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/gsoaresdz" target="_blank">Author</a>
 </p>
 <br>
 
-## **:dart: Sobre**
+## **:dart: About**
 
-Este projeto é uma aplicação web simplificada inspirada no Pinterest. Ele permite aos usuários carregar e visualizar imagens em um formato de painel. A aplicação utiliza Flask como framework web e SQLite para gerenciamento de banco de dados.
+This project is a simplified web application inspired by Pinterest. It allows users to upload and view images in a panel-like layout. The application uses Flask as the web framework and SQLite for database management.
 
-## **:memo: Regra de negócio**
+## **:memo: Business Rules**
 
-- A aplicação suporta operações básicas de um CRUD para usuários e fotos.
-- Os usuários podem adicionar e visualizar fotos.
+- The application supports basic CRUD operations for users and photos.
+- Users can add and view photos.
 
 ## **:sparkles: Features**
 
-:heavy_check_mark: **Feature 1**: Criação e gerenciamento de usuários.
+:heavy_check_mark: **Feature 1**: User creation and management.
 
-:heavy_check_mark: **Feature 2**: Upload e visualização de imagens em um formato de painel.
+:heavy_check_mark: **Feature 2**: Image upload and display in a panel layout.
 
-## **:rocket: Tecnologias**
+## **:rocket: Technologies**
 
-As seguintes ferramentas foram usadas neste projeto:
+The following tools were used in this project:
 
 - [Python](https://www.python.org/)
 - Flask
 - SQLite
 
-## **:white_check_mark: Requerimentos**
+## **:white_check_mark: Requirements**
 
-Antes de iniciar :checkered_flag:, você precisa ter [Git](https://git-scm.com/) e [Python](https://www.python.org/) instalado.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com/) and [Python](https://www.python.org/) installed.
 
-## **:checkered_flag: Execução**
+## **:checkered_flag: Execution**
 
 ```bash
-bashCopy code
-# Clone do projeto
+# Clone the project
 $ git clone https://github.com/username/fake-pinterest.git
 
-# Entrar no diretório
+# Enter the project directory
 $ cd fake-pinterest
 
-# Instalar dependências
+# Install dependencies
 $ pip install -r requirements.txt
 
-# Executar o script para criar o banco de dados
+# Run the script to create the database
 $ python criar_banco.py
 
-# Executar a aplicação
+# Run the application
 $ python main.py
-
 ```
 
-## **:memo: Licença**
+## :memo: License
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](https://chatgpt.com/g/g-HMNcP6w7d-data-analyst/c/LICENSE).
+This project is licensed under the MIT License. For more details, check the [LICENSE](LICENSE file.
 
-Feito com :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
+Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
-<a href="#top">De volta ao topo</a>
+<a href="#top">Back to top</a>
